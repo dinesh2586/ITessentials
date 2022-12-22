@@ -1,5 +1,7 @@
 # ITessentials
 completed linux commands
 completed the training vedios on git 
-started SDLC i will complete it by end of today  
+completed the git and git hub 
+created  a sample branch and two files and merged.
+
  
