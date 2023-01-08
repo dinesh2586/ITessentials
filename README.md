@@ -10,5 +10,8 @@ started oops concept
 completed the oops
 started the testing
 currently working on testing 
+completed testing and CICD
+working on web development 
+
 
  
