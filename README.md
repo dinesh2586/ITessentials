@@ -12,6 +12,7 @@ started the testing
 currently working on testing 
 completed testing and CICD
 working on web development 
-
+completed web development 
+at last currently  working on cloud computing GCP
 
  
