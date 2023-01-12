@@ -16,5 +16,5 @@ completed web development
 at last currently  working on cloud computing GCP
 completed cloud computing
 revised sql basic commands 
-
+completed the sharepoint and confluence
  
